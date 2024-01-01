@@ -35,8 +35,8 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-	background: linear-gradient(#000, #ffeb35, #027958, #410fab, #d91b50, #000);
-	height: 100%;
+	background-color: #410fab;
+	height: 10%;
 }
 
 #main {
@@ -256,7 +256,7 @@ nav a {
 	background-color: #111;
 }
 
-.lft-part-5 {
+.left-part-5 {
 	position: relative;
 	display: flex;
 	flex-direction: column;
@@ -276,11 +276,11 @@ nav a {
 	gap: 8vh;
 }
 
-.lft-part-5 p {
+.left-part-5 p {
 	width: 90%;
 }
 
-.rght-part-5 {
+.right-part-5 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -316,7 +316,6 @@ nav a {
 #scroll-3,
 #scroll-4 {
 	opacity: 0;
-	/* transition: all cubic-bezier(0.19, 1, 0.22, 1)1s; */
 }
 
 .part-6 {
@@ -418,7 +417,7 @@ nav a {
 	font-size: 1.2vw;
 }
 
-.btm-part-9 {
+.bottom-part-9 {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -525,11 +524,11 @@ nav a {
 		display: none !important;
 	}
 
-	.lft-part-5 {
+	.left-part-5 {
 		width: 100%;
 	}
 
-	.rght-part-5 {
+	.right-part-5 {
 		width: 100%;
 	}
 
