@@ -417,6 +417,7 @@ nav a {
 .rating button h3 {
 	font-family: GilroyB;
 	font-size: 1.2vw;
+	color: #eaeaea;
 }
 
 .bottom-part-9 {
@@ -565,6 +566,7 @@ nav a {
 
 	.rating button h3 {
 		font-size: 3vw;
+		color: #eaeaea;
 	}
 
 	.rating button img {
